@@ -54,6 +54,8 @@ Steps to initiate the tool:
       /path/to/pfault/workload_example
   
   7.  The user may select the various failure models in "Failure State Emulator"
+
+----------------------------------------------------------------------------------------------
  
 NOTE: The current version is unstable and it is still being updated. 
 Contact: will_cao@nmsu.edu 
